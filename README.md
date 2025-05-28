@@ -10,6 +10,7 @@ spremi bilješku u lokalnu datoteku (biljeske.txt),
 pregleda sve prethodno spremljene bilješke.
 
 KAKO RADI
+
 Kada korisnik unese bilješku u polje za unos i klikne "Spremi bilješku", tekst se dodaje na kraj datoteke biljeske.txt.
 
 Klikom na "Prikaži sve bilješke", aplikacija učitava sadržaj datoteke i prikazuje ga u prozoru ispod.
@@ -17,6 +18,7 @@ Klikom na "Prikaži sve bilješke", aplikacija učitava sadržaj datoteke i prik
 Ako nema spremljenih bilješki ili datoteka ne postoji, korisnik dobiva odgovarajuću poruku.
 
 STRUKTURE KODA
+
 dodaj_biljesku(): Sprema uneseni tekst u datoteku ako polje nije prazno.
 
 otvori_biljeske(): Prikazuje sadržaj datoteke ako postoji.
